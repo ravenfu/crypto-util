@@ -2,7 +2,7 @@
 
  crypto wrapper,code easier
 
-!(https://github.com/ravenfu/crypto-util.git)[https://github.com/ravenfu/crypto-util.git]
+[https://github.com/ravenfu/crypto-util.git](https://github.com/ravenfu/crypto-util.git)
 
 
 ```
