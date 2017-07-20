@@ -1,0 +1,23 @@
+{
+  "name": "crypto-util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "util.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravenfu/crypto-util.git"
+  },
+  "keywords": [
+    "crypto",
+    "util"
+  ],
+  "author": "Raven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ravenfu/crypto-util/issues"
+  },
+  "homepage": "https://github.com/ravenfu/crypto-util#readme"
+}
